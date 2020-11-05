@@ -2,6 +2,10 @@
 
 Image to Text Recognition app with flutter
 
+# This is how it looks
+
+![Screenshot](ocr.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
